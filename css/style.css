@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -6,26 +6,26 @@ body{
 
 /* HEADINGS */
 
-.header--main{
+.header--main {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
 
-.header--secondary{
+.header--secondary {
     font-weight: 300;
     font-size: 42px;
     color: #ffffff; 
 }
 
-.header--subheader{
+.header--subheader {
     font-size: 21px;
     color: gray; 
 }
 
 /* LINKS */
 
-.link--cta{
+.link--cta {
     font-size: 16px;
     color: aquamarine;
 }
